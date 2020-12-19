@@ -92,6 +92,6 @@ const styles = StyleSheet.create({
     flex: 1,
     width: '50%',
     flexDirection: 'row',
-    justifyContent: '',
+    justifyContent: 'center',
   },
 });
